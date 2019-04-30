@@ -1,0 +1,2 @@
+# ExpandableDraggableListView
+可分组可拖拽listview，类似QQ联系人分组，在此基础上实现可拖拽功能
